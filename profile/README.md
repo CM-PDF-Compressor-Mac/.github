@@ -20,7 +20,7 @@ The software supports batch processing, allowing you to compress multiple PDFs a
 
 Fully optimized for Apple Silicon (M1/M2/M3) and Intel Macs, it runs smoothly on macOS Ventura, Sonoma, and earlier versions. The intuitive interface makes it accessible for beginners, while power users appreciate the detailed settings and automation capabilities.
 
-![CM PDF Compressor Interface](https://static.macupdate.com/screenshots/351901/m/61175-1668059661-scr-screenshot.png?v=1691729033)
+![CM PDF Compressor Interface](https://images.wondershare.com/pdfelement/images2021/other/compress-pdf-for-mac-10.jpg)
 
 ---
 
